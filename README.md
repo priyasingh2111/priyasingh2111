@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/1cQbskCpM7SK1hhhTgJPsIonfbi1huRcZ/view?usp=drive_link)](https://priyasingh2111.io)
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United States</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-software-engineer-at-work-6863779">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1DRq6Xr-6aVxjqeyLu7kingDs9AHeYQaY/view?usp=drive_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasingh2111&label=Profile%20views&color=0e75b6&style=flat" alt="priyasingh2111" /> </p>
 
