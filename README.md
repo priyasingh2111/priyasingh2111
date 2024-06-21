@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/priyasingh2111/Daily-Expense-Manager-App)
 
-- 👨‍💻 All of my projects are available at [abc](abc)
+<!-- - 👨‍💻 All of my projects are available at [abc](abc) -->
 
 - 📫 How to reach me **singhusha25632@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qXMfECJR6uMFPPhA_xhTnytgJMsRSQkY/view?usp=drive_link](https://drive.google.com/file/d/1qXMfECJR6uMFPPhA_xhTnytgJMsRSQkY/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qXMfECJR6uMFPPhA_xhTnytgJMsRSQkY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
