@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/priyasingh2111/priyasingh2111/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United States</h3>
-<img align="right" alt="Coding" width="400" src="ezgif-2-9728e987ca.gif">
+<img align="right" alt="Coding" width="300" opacity=0.5 src="ezgif-2-9728e987ca.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasingh2111&label=Profile%20views&color=0e75b6&style=flat" alt="priyasingh2111" /> </p>
 
