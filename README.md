@@ -1,18 +1,17 @@
 ![MasterHead](https://raw.githubusercontent.com/priyasingh2111/priyasingh2111/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Priya Singh</h1>
-<h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United States</h3>
+<!--<h1 align="center"></h1>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="300" opacity=0.5 src="ezgif-2-9728e987ca.gif">
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasingh2111&label=Profile%20views&color=0e75b6&style=flat" alt="priyasingh2111" /> </p>
-
+- Hi 👋, I'm Priya Singh
+- A passionate Software developer, Data Scientist and Data Analyst from United States
+- 👩‍🎓 MS CS grad from The University Of Texas at Dallas
 - 🌱 I’m currently learning **React.js, AWS and Power BI**
-
+- 🌱 I’m currently learning **React.js, AWS and Power BI**
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/priyasingh2111/Daily-Expense-Manager-App)
-
 <!-- - 👨‍💻 All of my projects are available at [abc](abc) -->
-
 - 📫 How to reach me **singhusha25632@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qXMfECJR6uMFPPhA_xhTnytgJMsRSQkY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
