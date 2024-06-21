@@ -1,8 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/priyasingh2111/priyasingh2111/main/github-header-image.png)
-<!--<h1 align="center">Hi 👋, I'm Priya Singh</h1>
+
+<h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="centerA passionate Software developer, Data Scientist and Data Analyst from United Statesh3>
-<img align="right" alt="Coding" width="300" opacity=0.5 src="ezgif-2-9728e987ca.gif">
--->
+<img align="right" alt="Coding" width="350" style="opacity: 0.5;" src="ezgif-2-9728e987ca.gif">
+
 
 - 👩‍🎓 MS CS grad from The University Of Texas at Dallas
 - 🌱 I’m currently learning **React.js, AWS and Power BI**
