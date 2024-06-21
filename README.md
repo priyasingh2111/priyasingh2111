@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United Statesh3></h3>
 <img align="right" alt="Coding" width="400" style="opacity: 0.5;" src="ezgif-2-9728e987ca.gif">
 
-
+</br></br>
 - 👩‍🎓 MS CS grad from The University Of Texas at Dallas
 - 🌱 I’m currently learning **React.js, AWS and Power BI**
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/priyasingh2111/Daily-Expense-Manager-App)
