@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1cQbskCpM7SK1hhhTgJPsIonfbi1huRcZ/view?usp=drive_link)](https://priyasingh2111.io)
+[![MasterHead](https://raw.githubusercontent.com/priyasingh2111/my-repo/main/github-header-image.png)](https://priyasingh2111.io)
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United States</h3>
 <img align="right" alt="Coding" width="400" src="ezgif-2-9728e987ca.gif">
