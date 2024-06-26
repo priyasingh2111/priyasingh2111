@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/priyasingh2111/priyasingh2111/main/github-header-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United Statesh3></h3>
