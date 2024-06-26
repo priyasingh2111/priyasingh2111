@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://github.com/priyasingh2111/priyasingh2111/blob/40f86a8425035afdc60f0e034173246c72f31fe3/banner.png)
 
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Software developer, Data Scientist and Data Analyst from United Statesh3></h3>
